@@ -5,7 +5,7 @@ https://docs.google.com/document/d/1iP9qzuLIcUlEFPYDWCvWdpVaIcWgfuYOOSpjzpnXjlE
 
 
 Members: 
-Jonathan, Zach, Mason, Bryce, Danila
+Jonathan, Zach, Mason, Bryce, Danila, Ryan
 
 Timeline:
 Start: 5/21/14
