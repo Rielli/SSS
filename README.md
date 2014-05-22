@@ -18,3 +18,7 @@ LWJGL Trained: 7/1/14
 
 Game done: 6/1/15 - Can we get some more detail here
                   //Zac here- this means that the game has to be mostly done so that beta testing and debugging can take                                  place over the summer
+
+About
+=====
+The Sunset Space Simulation, also known as SSS is a project by sunset student to create a game utilizing several machines and various forms of input controlled by several people at once to controll a single spaceship facing various challenges in space.
