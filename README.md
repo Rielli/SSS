@@ -17,3 +17,4 @@ LWJGL Trained: 7/1/14
 3D design concept: 9/1/14
 
 Game done: 6/1/15 - Can we get some more detail here
+                  //Zac here- this means that the game has to be mostly done so that beta testing and debugging can take                                  place over the summer
