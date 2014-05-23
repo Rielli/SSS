@@ -21,4 +21,4 @@ Game done: 6/1/15 - Can we get some more detail here
 
 About
 =====
-The Sunset Space Simulation, also known as SSS is a project by Sunset high students to create a game utilizing several machines and various forms of input controlled by several people at once to controll a single spaceship facing various challenges in space.
+The Sunset Space Simulation, also known as SSS, is a project being created by Sunset high students to create a game utilizing several machines and various forms of input controlled by several people at once, to contro a single spaceship facing various challenges in space.
