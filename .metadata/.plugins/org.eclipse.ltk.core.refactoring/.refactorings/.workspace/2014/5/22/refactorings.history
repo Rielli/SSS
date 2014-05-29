@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename Java project &apos;Master Controler&apos; to &apos;Master Controller&apos;&#x0D;&#x0A;- Original element: &apos;Master Controler&apos;&#x0D;&#x0A;- Renamed element: &apos;Master Controler&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;Master Controler&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=Master Controler" name="Master Controller" references="true" stamp="1401336627701" version="1.0"/>
-</session>

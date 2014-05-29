@@ -1,7 +1,0 @@
-package com.SSS.engine;
-
-public class Util {
-	public static void createFlippedBuffer(Vertex[] vertices) {
-		
-	}
-}

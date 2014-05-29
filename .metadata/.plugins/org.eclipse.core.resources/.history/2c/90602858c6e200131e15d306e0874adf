@@ -1,6 +1,0 @@
-package com.SSS.engine;
-
-public class Mesh {
-	private int vbo;
-	private int size;
-}

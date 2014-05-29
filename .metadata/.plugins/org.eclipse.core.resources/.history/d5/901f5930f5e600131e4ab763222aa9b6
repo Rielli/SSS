@@ -1,7 +1,0 @@
-package com.sss.MasterController;
-
-public class Enemies {
-	public static String getEnemy(int i) {
-		
-	}
-}

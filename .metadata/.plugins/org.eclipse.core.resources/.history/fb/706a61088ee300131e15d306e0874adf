@@ -1,5 +1,0 @@
-package com.SSS.engine;
-
-public class Transform {
-	private Vector3f translation;
-}

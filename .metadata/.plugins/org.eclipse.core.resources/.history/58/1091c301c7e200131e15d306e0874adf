@@ -1,9 +1,0 @@
-package com.SSS.engine;
-import java.nio.FloatBuffer;
-
-public class Util {
-	public static void createFlippedBuffer(Vertex[] vertices) {
-		FloatBuffer buffer;
-		
-	}
-}

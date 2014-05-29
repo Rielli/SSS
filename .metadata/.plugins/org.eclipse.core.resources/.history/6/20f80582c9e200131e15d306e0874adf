@@ -1,7 +1,0 @@
-package com.SSS.engine;
-
-public class ResourceLoader {
-	public static String loadShader(String filename) {
-		
-	}
-}

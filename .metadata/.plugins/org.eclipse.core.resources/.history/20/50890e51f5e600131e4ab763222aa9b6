@@ -1,8 +1,0 @@
-package com.sss.MasterController;
-
-public class Enemies {
-	private static String[] enemies;
-	public static String getEnemy(int i) {
-		return enemies[i];
-	}
-}
