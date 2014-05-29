@@ -1,0 +1,19 @@
+INDEX VERSION 1.127+C:\Users\Bryce\Dropbox\Public\SSS\.metadata\.plugins\org.eclipse.jdt.core
+2300013034.index
+157039170.index
+3451981386.index
+2628546773.index
+2663422445.index
+1094119316.index
+1085189407.index
+4006141281.index
+100608460.index
+225357844.index
+1465270096.index
+1860909193.index
+524656879.index
+767332839.index
+2748910888.index
+1473523995.index
+3370256749.index
+3265492798.index

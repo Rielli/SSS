@@ -1,0 +1,17 @@
+package com.sss.MasterController;
+import javax.swing.JFrame;
+
+public class Values {
+	JFrame frame = new JFrame("Values");
+	public Values() {
+		frame.setSize(400, 400);
+		frame.setAlwaysOnTop(true);
+		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		frame.setLocationRelativeTo(null);
+		
+		frame.setVisible(true);
+	}
+	public static void main(String[] args) {
+		new Values();
+	}
+}

@@ -1,0 +1,8 @@
+package com.SSS.engine;
+
+public class Vector3f {
+	private float x;
+	private float y;
+	private float z;
+	
+}

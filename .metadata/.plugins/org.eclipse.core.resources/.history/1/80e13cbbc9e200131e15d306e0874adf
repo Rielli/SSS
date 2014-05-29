@@ -1,0 +1,16 @@
+package com.SSS.engine;
+import java.io.BufferedReader;
+
+public class ResourceLoader {
+	public static String loadShader(String filename) {
+		StringBuilder shaderSource = new StringBuilder();
+		BufferedReader shaderReader = null;
+		try {
+			shaderReader = new BufferedReader();
+		} catch (Exception e) {
+			e.printStackTrace();
+			System.exit(1);
+		}
+		return shaderSource.toString();
+	}
+}

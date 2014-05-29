@@ -1,0 +1,8 @@
+package com.SSS.engine;
+
+public class Vertex {
+	private Vector3f pos;
+	public Vertex(Vector3f pos) {
+		this.pos = pos;
+	}
+}

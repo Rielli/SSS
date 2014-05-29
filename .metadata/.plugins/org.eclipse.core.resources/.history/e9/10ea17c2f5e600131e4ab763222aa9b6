@@ -1,0 +1,52 @@
+package com.sss.MasterController;
+
+public class Enemies {
+	private static String[] enemies;
+	public Enemies() {
+		enemies = new String[18];
+		enemies[0] = "Cruiser";
+		enemies[1] = "Stealth Ship";
+		enemies[2] = "";
+		enemies[3] = "";
+		enemies[4] = "";
+		enemies[5] = "";
+		enemies[6] = "";
+		enemies[7] = "";
+		enemies[8] = "";
+		enemies[9] = "";
+		enemies[10] = "";
+		enemies[11] = "";
+		enemies[12] = "";
+		enemies[13] = "";
+		enemies[14] = "";
+		enemies[15] = "";
+		enemies[16] = "";
+		enemies[17] = "";
+	}
+	public static String getEnemy(int i) {
+		return enemies[i];
+	}
+}
+/*
+Spaceships--
+- Transporter Ship (Materials)
+		- 
+		- Stealth ship
+		- Bomber
+		- Shuttle
+		- Battlecruiser
+		- Frigate
+		- Destroyer
+		- Dreadnaught
+		- Assault ship
+		- Interceptor
+		- Recon ship
+		- Command ship
+	Mini-bosses--
+		- Battleship
+		- Transporter Ship (Ships)
+		- Heavy Assault ship
+	Final Boss--
+		- Hostile Space Station (Heavily armed, spawns smaller ships)
+		- Insanely large and over-dramatic mothership
+*/

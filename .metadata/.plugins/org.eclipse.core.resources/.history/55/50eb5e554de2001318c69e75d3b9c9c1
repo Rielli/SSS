@@ -1,0 +1,18 @@
+package com.SSS.engine;
+
+public class Matrix4f {
+	private float[][] m;
+	
+	public Matrix4f() {
+		m = new float[4][4];
+	}
+	public float[][] getMatrix() {
+		return m;
+	}
+	public float get() {
+		
+	}
+	public void setMatrix(float[][] m) {
+		this.m = m;
+	}
+}

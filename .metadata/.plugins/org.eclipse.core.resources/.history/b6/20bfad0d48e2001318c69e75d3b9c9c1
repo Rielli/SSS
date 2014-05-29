@@ -1,0 +1,10 @@
+package com.SSS.engine;
+
+public class Vectory2f {
+	private float x;
+	private float y;
+	
+	public Vector2f(float x, float y) {
+		
+	}
+}

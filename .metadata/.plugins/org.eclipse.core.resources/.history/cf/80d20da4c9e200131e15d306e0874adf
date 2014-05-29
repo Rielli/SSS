@@ -1,0 +1,9 @@
+package com.SSS.engine;
+
+public class ResourceLoader {
+	public static String loadShader(String filename) {
+		StringBuilder shaderSource = new StringBuilder();
+		BufferedReader shaderReader = null;
+		return shaderSource.toString();
+	}
+}

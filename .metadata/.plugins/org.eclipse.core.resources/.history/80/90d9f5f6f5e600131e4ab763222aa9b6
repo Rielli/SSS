@@ -1,0 +1,37 @@
+package com.sss.MasterController;
+
+public class Enemies {
+	private static String[] enemies;
+	public Enemies() {
+		enemies = new String[18];
+		enemies[0] = "Cruiser";
+		enemies[1] = "Stealth Ship";
+		enemies[2] = "Bomber";
+		enemies[3] = "Shuttle";
+		enemies[4] = "Battle Cruiser";
+		enemies[5] = "Frigate";
+		enemies[6] = "Destroyer";
+		enemies[7] = "Dreadnaught";
+		enemies[8] = "Assault Ship";
+		enemies[9] = "Interceptor";
+		enemies[10] = "Recon ship";
+		enemies[11] = "Command ship";
+		enemies[12] = "Battleship";
+		enemies[13] = "Transporter Ship";
+		enemies[14] = "Heavy Assault Ship";
+		enemies[15] = "";
+		enemies[16] = "";
+		enemies[17] = "";
+	}
+	public static String getEnemy(int i) {
+		return enemies[i];
+	}
+}
+/*
+		- 
+		- 
+		- 
+	Final Boss--
+		- Hostile Space Station (Heavily armed, spawns smaller ships)
+		- Insanely large and over-dramatic mothership
+*/

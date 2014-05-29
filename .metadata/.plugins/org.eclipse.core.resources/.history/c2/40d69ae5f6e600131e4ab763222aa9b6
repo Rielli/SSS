@@ -1,0 +1,28 @@
+package com.sss.MasterController;
+
+public class Events {
+	private static String[] internalproblem;
+	public Events() {
+		internalproblem = new String[17];
+		internalproblem[0] = "Cruiser";
+		internalproblem[1] = "Stealth Ship";
+		internalproblem[2] = "Bomber";
+		internalproblem[3] = "Shuttle";
+		internalproblem[4] = "Battle Cruiser";
+		internalproblem[5] = "Frigate";
+		internalproblem[6] = "Destroyer";
+		internalproblem[7] = "Dreadnaught";
+		internalproblem[8] = "Assault Ship";
+		internalproblem[9] = "Interceptor";
+		internalproblem[10] = "Recon ship";
+		internalproblem[11] = "Command ship";
+		internalproblem[12] = "Battleship";
+		internalproblem[13] = "Transporter Ship";
+		internalproblem[14] = "Heavy Assault Ship";
+		internalproblem[15] = "HSS";
+		internalproblem[16] = "The Mothership";
+	}
+	public String getInternalProblem(int i) {
+		return internalproblem[i];
+	}
+}

@@ -1,0 +1,8 @@
+package com.SSS.engine;
+import static org.lwjgl.opengl.GL11.*;
+public class RenderUtil {
+	public static void clearScreen() {
+		//erase everything one screen
+		glClear(GL_COLOR_BUFFER_BUT | GL_DEPTH_BUFFER_BIT)
+	}
+}

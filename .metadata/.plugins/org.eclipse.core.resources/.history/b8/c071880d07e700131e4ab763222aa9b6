@@ -1,0 +1,47 @@
+package com.sss.MasterController;
+
+public class Enemies {
+	private static String[] enemies;
+	private static String[] enemiesDef;
+	public Enemies() {
+		enemies = new String[17];
+		enemiesDef = new String[17];
+		enemies[0] = "Cruiser";
+		enemiesDef[0] = "nothing on the Cruiser yet.";
+		enemies[1] = "Stealth Ship";
+		enemiesDef[1] =  "nothing on the Stealth Ship yet.";
+		enemies[2] = "Bomber";
+		enemiesDef[2] =  "nothing on the Cruiser yet.";
+		enemies[3] = "Shuttle";
+		enemiesDef[3] =  "nothing on the Cruiser yet.";
+		enemies[4] = "Battle Cruiser";
+		enemiesDef[4] =  "nothing on the Cruiser yet.";
+		enemies[5] = "Frigate";
+		enemiesDef[5] =  "nothing on the Cruiser yet.";
+		enemies[6] = "Destroyer";
+		enemiesDef[6] =  "nothing on the Cruiser yet.";
+		enemies[7] = "Dreadnaught";
+		enemiesDef[7] =  "nothing on the Cruiser yet.";
+		enemies[8] = "Assault Ship";
+		enemiesDef[8] =  "nothing on the Cruiser yet.";
+		enemies[9] = "Intercepter";
+		enemiesDef[9] =  "nothing on the Cruiser yet.";
+		enemies[10] = "Recon ship";
+		enemiesDef[10] =  "nothing on the Cruiser yet.";
+		enemies[11] = "Command ship";
+		enemiesDef[11] =  "nothing on the Cruiser yet.";
+		enemies[12] = "Battleship";
+		enemiesDef[12] =  "nothing on the Cruiser yet.";
+		enemies[13] = "Transporter Ship";
+		enemiesDef[13] =  "nothing on the Cruiser yet.";
+		enemies[14] = "Heavy Assault Ship";
+		enemiesDef[14] =  "nothing on the Cruiser yet.";
+		enemies[15] = "Hostile Space Station";
+		enemiesDef[15] =  "nothing on the Cruiser yet.";
+		enemies[16] = "The Mothership";
+		enemiesDef[16] =  "nothing on the Cruiser yet.";
+	}
+	public String getEnemy(int i) {
+		return enemies[i];
+	}
+}

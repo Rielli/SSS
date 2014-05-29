@@ -1,0 +1,16 @@
+package com.sss.MasterController;
+
+public class Events {
+	private static String[] event;
+	public Events() {
+		event = new String[5];
+		event[0] = "Enemy Health Gain";
+		event[1] = "Solar Storm";
+		event[2] = "Meteor Shower";
+		event[3] = "Black Hole";
+		event[4] = "Worm Hole";
+	}
+	public String getEvent(int i) {
+		return event[i];
+	}
+}

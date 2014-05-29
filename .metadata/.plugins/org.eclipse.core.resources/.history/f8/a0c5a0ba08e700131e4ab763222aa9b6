@@ -1,0 +1,27 @@
+package com.sss.MasterController;
+
+public class InternalProblems {
+	private static String[] internalproblem;
+	private static String[] internalproblemDef;
+	public InternalProblems() {
+		internalproblem = new String[11];
+		internalproblemDef = new String[11];
+		internalproblem[0] = "force reload";
+		internalproblemDef[0] = "force the gunner to reload causing a pause in the defense, possibly causing them to receive damage or be hit by an projectile.";
+		internalproblem[1] = "temp shield removal";
+		internalproblemDef[1] = "Temporarily remove the team ship sheild, causing damage dealt by enemies, meteors, ex.. to double the damage.";
+		internalproblem[2] = "non-functioning controls";
+		internalproblemDef[2] = "pick one of the 3 control stations and choose a specific control that he/she will no longer be able to use until a mini-game has been succesfully completed.";
+		internalproblem[3] = "Core Meltdown";
+		internalproblem[4] = "Power Shortage";
+		internalproblem[5] = "Weapon Malfunction";
+		internalproblem[6] = "Screen Cracks";
+		internalproblem[7] = "Fuel leak";
+		internalproblem[8] = "Hyperjump failure";
+		internalproblem[9] = "Life Support Failure";
+		internalproblem[10] = "Radiation leak";
+	}
+	public String getInternalProblem(int i) {
+		return internalproblem[i];
+	}
+}

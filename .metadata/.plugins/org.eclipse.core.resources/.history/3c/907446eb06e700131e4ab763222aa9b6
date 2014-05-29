@@ -1,0 +1,47 @@
+package com.sss.MasterController;
+
+public class Enemies {
+	private static String[] enemies;
+	private static String[] enemiesDef;
+	public Enemies() {
+		enemies = new String[17];
+		enemiesDef = new String[17];
+		enemies[0] = "Cruiser";
+		enemiesDef[] = "";
+		enemies[1] = "Stealth Ship";
+		enemiesDef[] = "";
+		enemies[2] = "Bomber";
+		enemiesDef[] = "";
+		enemies[3] = "Shuttle";
+		enemiesDef[] = "";
+		enemies[4] = "Battle Cruiser";
+		enemiesDef[] = "";
+		enemies[5] = "Frigate";
+		enemiesDef[] = "";
+		enemies[6] = "Destroyer";
+		enemiesDef[] = "";
+		enemies[7] = "Dreadnaught";
+		enemiesDef[] = "";
+		enemies[8] = "Assault Ship";
+		enemiesDef[] = "";
+		enemies[9] = "Intercepter";
+		enemiesDef[] = "";
+		enemies[10] = "Recon ship";
+		enemiesDef[] = "";
+		enemies[11] = "Command ship";
+		enemiesDef[] = "";
+		enemies[12] = "Battleship";
+		enemiesDef[] = "";
+		enemies[13] = "Transporter Ship";
+		enemiesDef[] = "";
+		enemies[14] = "Heavy Assault Ship";
+		enemiesDef[] = "";
+		enemies[15] = "Hostile Space Station";
+		enemiesDef[] = "";
+		enemies[16] = "The Mothership";
+		enemiesDef[] = "";
+	}
+	public String getEnemy(int i) {
+		return enemies[i];
+	}
+}

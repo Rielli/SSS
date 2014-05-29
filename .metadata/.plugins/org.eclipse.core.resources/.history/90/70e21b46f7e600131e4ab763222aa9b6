@@ -1,0 +1,31 @@
+package com.sss.MasterController;
+
+public class InternalProblems {
+	private static String[] internalproblem;
+	public InternalProblems() {
+		internalproblem = new String[17];
+		internalproblem[0] = "force reload";
+		internalproblem[1] = "temp shield removal";
+		internalproblem[2] = "";
+		internalproblem[3] = "";
+		internalproblem[4] = "";
+		internalproblem[5] = "";
+	}
+	public String getInternalProblem(int i) {
+		return internalproblem[i];
+	}
+}
+
+/*
+	
+non-functioning controls (for one of the 3 stations)
+	Core Meltdown
+	Power Shortage
+	Weapon Malfunction
+	Screen Cracks
+Fuel leak
+Hyperjump failure (temporary slow down/not allowed to use)
+Life Support Failure (Huge time constraint, Oxygen masks?)
+Radiation leak
+
+*/
