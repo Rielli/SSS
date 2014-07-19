@@ -2,10 +2,11 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="/Users/DanilaFedorin/Documents/Eclipse Main/SSS/Sunset Space Simulation/libs/jars/lwjgl_util.jar"/>
-	<classpathentry kind="lib" path="/Users/DanilaFedorin/Documents/Eclipse Main/SSS/Sunset Space Simulation/libs/jars/lwjgl.jar">
+	<classpathentry kind="lib" path="libs/jars/lwjgl_util.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl.jar">
 		<attributes>
-			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/Users/DanilaFedorin/Documents/Eclipse Main/SSS/Sunset Space Simulation/libs/natives"/>
+			<attribute name="javadoc_location" value="jar:platform:/resource/Sunset%20Space%20Simulation/lwjgl-docs-2.9.1.zip!/javadoc"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="Sunset Space Simulation/libs/natives/"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="output" path="bin"/>

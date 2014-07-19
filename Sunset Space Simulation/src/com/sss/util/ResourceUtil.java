@@ -2,7 +2,6 @@ package com.sss.util;
 
 import java.io.BufferedReader;
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.FileReader;
 import java.io.IOException;
@@ -11,8 +10,6 @@ import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.ArrayList;
-import java.util.List;
-import java.util.Map;
 
 public class ResourceUtil {
 
@@ -80,7 +77,7 @@ public class ResourceUtil {
 			int returni = 0;
 			
 			/*
-			 * Ensure parent falder exists
+			 * Ensure parent folder exists
 			 */
 			output.getParentFile().mkdirs();
 			
