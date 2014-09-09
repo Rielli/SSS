@@ -15,6 +15,9 @@ LWJGL Trained: 7/1/14
 
 Game done: 6/1/15 - Can we get some more detail here
                   //Zac here- this means that the game has to be mostly done so that beta testing and debugging can take                                  place over the summer
+                  --UPDATE--
+                  we only have until may next year (2015) to be done and get it judged! Let's get working!
+                  We will be meeting every Thursday after school in conjunction with the programming club. be there!
 
 About
 =====
